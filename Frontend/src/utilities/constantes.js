@@ -1,0 +1,21 @@
+const BAD_TOKEN = "BAD_TOKEN";
+const OK = "OK";
+const NO_DATA = "NO_DATA";
+const CREADO = "CREADO";
+const EDITADO = "EDITADO";
+const ELIMINADO = "ELIMINADO";
+const DB_UPDATE_NOT_REQUIRED = "BAD_TOKEN";
+
+export {
+  BAD_TOKEN,
+  OK,
+  NO_DATA,
+  CREADO,
+  EDITADO,
+  ELIMINADO,
+  DB_UPDATE_NOT_REQUIRED
+}
+
+
+
+
